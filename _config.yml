@@ -216,14 +216,14 @@ disqus:
     username: Simple
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: Simple
+    owner: xuzijia
     repo: blog-comments
     oauth:
         client_id: 729cd003781fd1074a77
         client_secret: 00f8b24d803521e1409b8aa2d17f81273992c09b
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: Simple
+    owner: xuzijia
     repo: blog-comments
     clientID: 729cd003781fd1074a77
     clientSecret: 00f8b24d803521e1409b8aa2d17f81273992c09b
