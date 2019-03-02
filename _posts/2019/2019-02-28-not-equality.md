@@ -36,3 +36,7 @@ tags: [life]
 再往回收一点吧，不然负能量太厉害。
 
 虽然这些问题都现实存在，但如今的中国仍然是历史上最好的情况了。只要你足够的努力，仍然是可以过上相对比较理想的生活。
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=FyfwLX4HAxM
+" target="_blank"><img src="http://img.youtube.com/vi/FyfwLX4HAxM/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
